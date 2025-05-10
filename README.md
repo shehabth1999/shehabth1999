@@ -49,9 +49,14 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shehabth1999&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shehabth1999&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shehabth1999&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shehabth1999&layout=compact&theme=tokyonight)
+
+## 📈 Contributions
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shehabth1999&theme=tokyonight" alt="Shehab's GitHub Contribution"/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shehabth1999&theme=tokyonight)
 
 ## 🏆 Projects
 ### [Genie ERP](https://github.com/shehabth1999)

@@ -4,7 +4,7 @@
 - 👨‍💻 Full Stack Developer with expertise in Django and React
 - 🏢 Currently working at Genie ERP building enterprise systems
 - 🔭 Working on an AI-powered ERP platform that can edit and build full systems
-- 🌱 Currently focusing on Django, React, TailwindCSS, and Inertia.js
+- 🌱 Currently focusing on Django, React, TailwindCSS, Inertia.js, and Electron.js
 - 👯 Looking to collaborate on full stack development projects
 - 💬 Ask me about Python, Django, React, REST APIs, and full stack development
 - 📫 How to reach me: shethr999@gmail.com | +201025294594
@@ -31,6 +31,9 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+### Desktop Application Development
+![Electron.js](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 ### ERP & Systems Development
 ![ERP Systems](https://img.shields.io/badge/ERP_Systems-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
@@ -102,6 +105,7 @@ A React-based application featuring routing, state management, API integration, 
 - Creating robust frontend and backend components for enterprise solutions
 - Implementing responsive and intuitive user interfaces
 - Contributing to both frontend and backend in a full stack capacity
+- Building cross-platform desktop applications using Electron.js
 
 **Back-end Developer** at **Qurtoba Payments** (2023)
 - Developed and maintained backend payment systems
